@@ -1,0 +1,90 @@
+D:\GMR\alyssadrawing\alyssadrawing\bin\Debug\alyssadrawing.exe.config
+D:\GMR\alyssadrawing\alyssadrawing\bin\Debug\alyssadrawing.exe
+D:\GMR\alyssadrawing\alyssadrawing\bin\Debug\alyssadrawing.pdb
+D:\GMR\alyssadrawing\alyssadrawing\obj\Debug\alyssadrawing.csprojResolveAssemblyReference.cache
+D:\GMR\alyssadrawing\alyssadrawing\obj\Debug\MainWindow.g.cs
+D:\GMR\alyssadrawing\alyssadrawing\obj\Debug\App.g.cs
+D:\GMR\alyssadrawing\alyssadrawing\obj\Debug\alyssadrawing_MarkupCompile.cache
+D:\GMR\alyssadrawing\alyssadrawing\obj\Debug\alyssadrawing_MarkupCompile.lref
+D:\GMR\alyssadrawing\alyssadrawing\obj\Debug\MainWindow.baml
+D:\GMR\alyssadrawing\alyssadrawing\obj\Debug\alyssadrawing.g.resources
+D:\GMR\alyssadrawing\alyssadrawing\obj\Debug\alyssadrawing.Properties.Resources.resources
+D:\GMR\alyssadrawing\alyssadrawing\obj\Debug\alyssadrawing.csproj.GenerateResource.Cache
+D:\GMR\alyssadrawing\alyssadrawing\obj\Debug\alyssadrawing.exe
+D:\GMR\alyssadrawing\alyssadrawing\obj\Debug\alyssadrawing.pdb
+D:\GMR\alyssadrawing\alyssadrawing\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\GMR\alyssadrawing\alyssadrawing\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\GMR\alyssadrawing\alyssadrawing\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\GMR\alyssadrawing\alyssadrawing\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\GMR\alyssadrawing\alyssadrawing\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\GMR\alyssadrawing\alyssadrawing\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\GMR\alyssadrawing\alyssadrawing\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\GMR\alyssadrawing\alyssadrawing\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\GMR\alyssadrawing\alyssadrawing\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\GMR\alyssadrawing\alyssadrawing\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\GMR\alyssadrawing\alyssadrawing\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\GMR\alyssadrawing\alyssadrawing\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\GMR\alyssadrawing\alyssadrawing\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\GMR\alyssadrawing\alyssadrawing\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\GMR\alyssadrawing\alyssadrawing\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\GMR\alyssadrawing\alyssadrawing\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\GMR\alyssadrawing\alyssadrawing\bin\Debug\alyssadrawing.exe.config
+E:\GMR\alyssadrawing\alyssadrawing\obj\Debug\alyssadrawing.exe
+E:\GMR\alyssadrawing\alyssadrawing\obj\Debug\alyssadrawing.pdb
+E:\GMR\alyssadrawing\alyssadrawing\bin\Debug\alyssadrawing.exe
+E:\GMR\alyssadrawing\alyssadrawing\bin\Debug\alyssadrawing.pdb
+E:\GMR\alyssadrawing\alyssadrawing\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\GMR\alyssadrawing\alyssadrawing\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\GMR\alyssadrawing\alyssadrawing\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\GMR\alyssadrawing\alyssadrawing\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\GMR\alyssadrawing\alyssadrawing\bin\Debug\Xceed.Wpf.DataGrid.dll
+E:\GMR\alyssadrawing\alyssadrawing\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\GMR\alyssadrawing\alyssadrawing\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\GMR\alyssadrawing\alyssadrawing\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\GMR\alyssadrawing\alyssadrawing\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\GMR\alyssadrawing\alyssadrawing\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\GMR\alyssadrawing\alyssadrawing\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\GMR\alyssadrawing\alyssadrawing\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\GMR\alyssadrawing\alyssadrawing\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\GMR\alyssadrawing\alyssadrawing\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\GMR\alyssadrawing\alyssadrawing\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\GMR\alyssadrawing\alyssadrawing\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\GMR\alyssadrawing\alyssadrawing\obj\Debug\alyssadrawing.csprojResolveAssemblyReference.cache
+E:\GMR\alyssadrawing\alyssadrawing\obj\Debug\MainWindow.g.cs
+E:\GMR\alyssadrawing\alyssadrawing\obj\Debug\App.g.cs
+E:\GMR\alyssadrawing\alyssadrawing\obj\Debug\alyssadrawing_MarkupCompile.cache
+E:\GMR\alyssadrawing\alyssadrawing\obj\Debug\alyssadrawing_MarkupCompile.lref
+E:\GMR\alyssadrawing\alyssadrawing\obj\Debug\MainWindow.baml
+E:\GMR\alyssadrawing\alyssadrawing\obj\Debug\alyssadrawing.g.resources
+E:\GMR\alyssadrawing\alyssadrawing\obj\Debug\alyssadrawing.Properties.Resources.resources
+E:\GMR\alyssadrawing\alyssadrawing\obj\Debug\alyssadrawing.csproj.GenerateResource.Cache
+C:\Users\VisitorDL11\Documents\Visual Studio 2015\Projects\alyssadrawing\alyssadrawing\bin\Debug\alyssadrawing.exe.config
+C:\Users\VisitorDL11\Documents\Visual Studio 2015\Projects\alyssadrawing\alyssadrawing\obj\Debug\alyssadrawing.exe
+C:\Users\VisitorDL11\Documents\Visual Studio 2015\Projects\alyssadrawing\alyssadrawing\obj\Debug\alyssadrawing.pdb
+C:\Users\VisitorDL11\Documents\Visual Studio 2015\Projects\alyssadrawing\alyssadrawing\bin\Debug\alyssadrawing.exe
+C:\Users\VisitorDL11\Documents\Visual Studio 2015\Projects\alyssadrawing\alyssadrawing\bin\Debug\alyssadrawing.pdb
+C:\Users\VisitorDL11\Documents\Visual Studio 2015\Projects\alyssadrawing\alyssadrawing\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\VisitorDL11\Documents\Visual Studio 2015\Projects\alyssadrawing\alyssadrawing\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\VisitorDL11\Documents\Visual Studio 2015\Projects\alyssadrawing\alyssadrawing\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\VisitorDL11\Documents\Visual Studio 2015\Projects\alyssadrawing\alyssadrawing\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\VisitorDL11\Documents\Visual Studio 2015\Projects\alyssadrawing\alyssadrawing\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\VisitorDL11\Documents\Visual Studio 2015\Projects\alyssadrawing\alyssadrawing\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\VisitorDL11\Documents\Visual Studio 2015\Projects\alyssadrawing\alyssadrawing\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\VisitorDL11\Documents\Visual Studio 2015\Projects\alyssadrawing\alyssadrawing\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\VisitorDL11\Documents\Visual Studio 2015\Projects\alyssadrawing\alyssadrawing\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\VisitorDL11\Documents\Visual Studio 2015\Projects\alyssadrawing\alyssadrawing\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\VisitorDL11\Documents\Visual Studio 2015\Projects\alyssadrawing\alyssadrawing\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\VisitorDL11\Documents\Visual Studio 2015\Projects\alyssadrawing\alyssadrawing\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\VisitorDL11\Documents\Visual Studio 2015\Projects\alyssadrawing\alyssadrawing\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\VisitorDL11\Documents\Visual Studio 2015\Projects\alyssadrawing\alyssadrawing\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\VisitorDL11\Documents\Visual Studio 2015\Projects\alyssadrawing\alyssadrawing\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\VisitorDL11\Documents\Visual Studio 2015\Projects\alyssadrawing\alyssadrawing\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\VisitorDL11\Documents\Visual Studio 2015\Projects\alyssadrawing\alyssadrawing\obj\Debug\alyssadrawing.csprojResolveAssemblyReference.cache
+C:\Users\VisitorDL11\Documents\Visual Studio 2015\Projects\alyssadrawing\alyssadrawing\obj\Debug\MainWindow.g.cs
+C:\Users\VisitorDL11\Documents\Visual Studio 2015\Projects\alyssadrawing\alyssadrawing\obj\Debug\App.g.cs
+C:\Users\VisitorDL11\Documents\Visual Studio 2015\Projects\alyssadrawing\alyssadrawing\obj\Debug\alyssadrawing_MarkupCompile.cache
+C:\Users\VisitorDL11\Documents\Visual Studio 2015\Projects\alyssadrawing\alyssadrawing\obj\Debug\alyssadrawing_MarkupCompile.lref
+C:\Users\VisitorDL11\Documents\Visual Studio 2015\Projects\alyssadrawing\alyssadrawing\obj\Debug\MainWindow.baml
+C:\Users\VisitorDL11\Documents\Visual Studio 2015\Projects\alyssadrawing\alyssadrawing\obj\Debug\alyssadrawing.g.resources
+C:\Users\VisitorDL11\Documents\Visual Studio 2015\Projects\alyssadrawing\alyssadrawing\obj\Debug\alyssadrawing.Properties.Resources.resources
+C:\Users\VisitorDL11\Documents\Visual Studio 2015\Projects\alyssadrawing\alyssadrawing\obj\Debug\alyssadrawing.csproj.GenerateResource.Cache

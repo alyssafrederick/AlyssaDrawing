@@ -1,0 +1,17 @@
+﻿<Window x:Class="alyssadrawing.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:alyssadrawing"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525" KeyDown="Window_KeyDown" KeyUp="Window_KeyUp">
+    <Grid Background="Black" MouseMove="Grid_MouseMove" MouseUp="Grid_MouseUp" MouseLeave="Grid_MouseLeave" MouseDown="Grid_MouseDown">
+        <Canvas x:Name="canvas" Background="Black" Grid.ColumnSpan="2" >
+        </Canvas>
+        <xctk:ColorPicker Name="ClrPcker_Background" SelectedColorChanged="ClrPcker_Background_SelectedColorChanged" VerticalAlignment="Top" HorizontalAlignment="Left" Width="53"/>
+        <Button x:Name="upButton" Content="▲" HorizontalAlignment="Left" VerticalAlignment="Top" Width="21" Margin="3,27,0,0" Click="upButton_Click"/>
+        <Button x:Name="downButton" Content="▼" HorizontalAlignment="Left" VerticalAlignment="Top" Width="21" Margin="29,27,0,0" Click="downButton_Click"/>
+    </Grid>
+</Window>
